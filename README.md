@@ -1,11 +1,5 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
 
 # Introduction to GitHub
 
@@ -13,11 +7,6 @@ _Get started using GitHub in less than an hour._
 
 </header>
 
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
 
 ## Step 2: Commit a file
 
@@ -44,11 +33,10 @@ The following steps will guide you through the process of committing a change on
 
 4. In the **Enter file contents here** area, copy the following content to your file:
 
-   ```
-   Welcome to my GitHub profile!
+   ``
    ```
 
-   ![profile.md file screenshot](/images/my-profile-file.png)
+   
 
 5. Click **Commit changes...** in the upper right corner above the contents box. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice. First, enter `Add PROFILE.md` in the first text-entry field titled "Commit message".
 
@@ -59,12 +47,6 @@ The following steps will guide you through the process of committing a change on
 
 <footer>
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
